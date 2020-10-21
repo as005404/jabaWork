@@ -17,8 +17,10 @@ public class Main {
 
         String DecimalPart = str.substring(0,indexOfDot);
         String RealPart = str.substring(indexOfDot+1);
-        System.out.println(DecimalPart);
-        System.out.println(RealPart);
 
+        String FullNumber = RealPart + "." + DecimalPart;
+
+        double ReversedNumber = Double.parseDouble(FullNumber);
+        System.out.println("Number with reverced decimal and Real parts : " + ReversedNumber);
     }
 }
