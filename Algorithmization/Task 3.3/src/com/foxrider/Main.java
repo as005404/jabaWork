@@ -27,8 +27,8 @@ public class Main {
 
     static void chooseSort(int [] arr){
         for (int i = 0, j = arr.length-1; i <= j; i++,j--) {
-            swap(arr,i,min(arr,i,j));
-            swap(arr,j,max(arr,i,j));
+            swap(arr,i,max(arr,i,j));
+            swap(arr,j,min(arr,i,j));
         }
     }
 
