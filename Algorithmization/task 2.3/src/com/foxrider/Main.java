@@ -2,7 +2,7 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Дана матрица. Вывести k-ю строку и p-й столбец матрицы.
 public class Main {
 
     public static void main(String[] args) {

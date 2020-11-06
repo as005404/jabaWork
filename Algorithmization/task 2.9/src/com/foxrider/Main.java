@@ -2,7 +2,8 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Задана матрица неотрицательных чисел. Посчитать сумму элементов в каждом столбце. Определить, какой
+//столбец содержит максимальную сумму.
 public class Main {
 
     public static void main(String[] args) {

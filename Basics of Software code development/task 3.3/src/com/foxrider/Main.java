@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+//Найти сумму квадратов первых ста чисел.
 public class Main {
 
     public static void main(String[] args) {

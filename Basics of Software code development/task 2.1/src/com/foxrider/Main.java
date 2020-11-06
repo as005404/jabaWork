@@ -1,6 +1,8 @@
 package com.foxrider;
 
 import java.util.Scanner;
+//1. Даны два угла треугольника (в градусах). Определить,
+// существует ли такой треугольник, и если да, то будет ли он прямоугольным.
 
 public class Main {
 
@@ -17,7 +19,7 @@ public class Main {
         double lastAngle = 180 - firstAngle - secAngle;
         if(lastAngle > 0){
             if(Math.round(firstAngle) == 90 || Math.round(secAngle) == 90 || Math.round(lastAngle) == 90)
-                System.out.println("This is square Triangle");
+                System.out.println("This is right Triangle");
             else
                 System.out.println("This is Triangle");
         }

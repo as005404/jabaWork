@@ -2,7 +2,8 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Дан целочисленный массив с количеством элементов п. Сжать массив, выбросив из него каждый второй
+//элемент (освободившиеся элементы заполнить нулями). Примечание. Дополнительный массив не использовать.
 public class Main {
 
     public static void main(String[] args) {

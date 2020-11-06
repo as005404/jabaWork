@@ -3,7 +3,8 @@ package com.foxrider;
 import java.util.Arrays;
 import java.util.Scanner;
 import static java.lang.Math.*;
-
+// Сформировать квадратную матрицу порядка N по правилу:
+// a[i,j] = sin((i^2 - j^2)/N)
 public class Main {
 
     public static void main(String[] args) {

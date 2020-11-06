@@ -2,7 +2,8 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+// В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число. Если таких
+//чисел несколько, то определить наименьшее из них
 public class Main {
 
     public static void main(String[] args) {

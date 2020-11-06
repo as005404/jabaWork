@@ -3,7 +3,8 @@ package com.foxrider;
 import java.util.Arrays;
 
 import static java.lang.Math.*;
-
+// Матрицу 10x20 заполнить случайными числами от 0 до 15. Вывести на экран саму матрицу и номера строк, в
+//которых число 5 встречается три и более раз.
 public class Main {
 
     public static void main(String[] args) {

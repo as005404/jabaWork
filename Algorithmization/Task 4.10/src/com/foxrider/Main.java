@@ -2,7 +2,8 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Дано натуральное число N. Написать метод(методы) для формирования массива, элементами которого
+//являются цифры числа N.
 public class Main {
 
     public static void main(String[] args) {

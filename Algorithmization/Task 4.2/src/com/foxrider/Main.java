@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+//Написать метод(методы) для нахождения наибольшего общего делителя четырех натуральных чисел.
 public class Main {
 
     public static void main(String[] args) {

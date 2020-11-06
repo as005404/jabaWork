@@ -3,7 +3,8 @@ package com.foxrider;
 import java.util.Scanner;
 
 import static java.lang.Math.*;
-
+//Вычислить площадь правильного шестиугольника со стороной а, используя метод вычисления площади
+//треугольника.
 public class Main {
 
     public static void main(String[] args) {

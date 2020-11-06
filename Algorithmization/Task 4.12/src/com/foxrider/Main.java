@@ -3,7 +3,8 @@ package com.foxrider;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
-
+//Даны натуральные числа К и N. Написать метод(методы) формирования массива А, элементами которого
+//являются числа, сумма цифр которых равна К и которые не большее N.
 public class Main {
 
     public static void main(String[] args) {

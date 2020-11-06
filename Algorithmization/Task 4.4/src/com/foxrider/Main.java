@@ -6,7 +6,8 @@ import java.util.Scanner;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
-
+//На плоскости заданы своими координатами n точек. Написать метод(методы), определяющие, между какими
+//из пар точек самое большое расстояние. Указание. Координаты точек занести в массив.
 public class Main {
 
     public static void main(String[] args) {

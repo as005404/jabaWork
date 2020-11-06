@@ -3,7 +3,7 @@ package com.foxrider;
 import java.nio.BufferUnderflowException;
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Отсотрировать стобцы матрицы по возрастанию и убыванию значений эементов.
 import static java.lang.Math.*;
 
 public class Main {

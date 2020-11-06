@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+// Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера.
 public class Main {
 
     public static void main(String[] args) {

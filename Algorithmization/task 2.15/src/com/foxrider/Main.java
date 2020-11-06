@@ -3,7 +3,7 @@ package com.foxrider;
 import java.util.Arrays;
 import java.util.Scanner;
 import static java.lang.Math.*;
-
+// Найдите наибольший элемент матрицы и заменить все нечетные элементы на него.
 public class Main {
 
     public static void main(String[] args) {

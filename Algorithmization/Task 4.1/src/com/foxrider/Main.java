@@ -1,7 +1,8 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+// Написать метод(методы) для нахождения наибольшего общего делителя и наименьшего общего кратного двух
+//натуральных чисел:
 public class Main {
 
     public static void main(String[] args) {

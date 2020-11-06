@@ -5,7 +5,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-
+//Даны две неубывающие последовательности
+//Образовать из них новую последовательность
+//чисел так, чтобы она тоже была неубывающей. Примечание. Дополнительный массив не использовать
 public class Main {
 
     public static void main(String[] args) {

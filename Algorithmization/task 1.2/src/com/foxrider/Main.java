@@ -2,7 +2,8 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Дана последовательность действительных чисел а1 ,а2 ,..., ап. Заменить все ее члены, большие данного Z, этим
+// числом. Подсчитать количество замен
 public class Main {
 
     public static void main(String[] args) {

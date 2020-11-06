@@ -2,6 +2,9 @@ package com.foxrider;
 
 import java.util.Scanner;
 
+/**
+ *  Найдите значение функции: z = ( (a – 3 ) * b / 2) + c
+ **/
 public class Main {
     public static void main(String[] args) {
         // Initialization of Scanner

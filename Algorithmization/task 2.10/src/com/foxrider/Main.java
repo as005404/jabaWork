@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+// Найти положительные элементы главной диагонали квадратной матрицы
 public class Main {
 
     public static void main(String[] args) {

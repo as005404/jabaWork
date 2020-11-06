@@ -2,7 +2,11 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
+//1 2 3 4
+//4 3 2 1
+//1 2 3 4
+//4 3 2 1
 public class Main {
 
     public static void main(String[] args) {

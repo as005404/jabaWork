@@ -5,7 +5,10 @@ import java.util.Arrays;
 import java.util.Random;
 
 import static java.lang.Math.sqrt;
-
+// Даны дроби
+//(Pn/Qn)
+//Pi Qi, - натуральные). Составить программу, которая приводит эти дроби к общему
+//знаменателю и упорядочивает их в порядке возрастания.
 public class Main {
 
     public static void main(String[] args) {

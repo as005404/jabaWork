@@ -1,7 +1,8 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+// Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича. Определить, пройдет ли кирпич через
+//отверстие.
 public class Main {
 
     public static void main(String[] args) {

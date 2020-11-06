@@ -2,7 +2,9 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Дана последовательность целых чисел a1 a2 an
+//Образовать новую последовательность, выбросив из
+//исходной те члены, которые равны min( , , , ) a1 a2 an
 public class Main {
 
     public static void main(String[] args) {

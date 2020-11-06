@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+//Написать метод(методы), проверяющий, являются ли данные три числа взаимно простыми.
 public class Main {
 
     public static void main(String[] args) {

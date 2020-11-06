@@ -3,7 +3,7 @@ package com.foxrider;
 import java.util.Arrays;
 import java.util.Scanner;
 import static java.lang.Math.*;
-
+//Отсортировать строки матрицы по возрастанию и убыванию значений элементов.
 public class Main {
 
     public static void main(String[] args) {

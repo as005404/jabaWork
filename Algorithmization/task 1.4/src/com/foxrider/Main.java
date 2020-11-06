@@ -2,7 +2,7 @@ package com.foxrider;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы
 public class Main {
 
     public static void main(String[] args) {

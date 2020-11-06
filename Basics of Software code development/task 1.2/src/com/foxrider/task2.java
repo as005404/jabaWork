@@ -1,7 +1,9 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+/**
+ * Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+ **/
 public class task2 {
     public static void main(String[]args){
         // Initialization of Scanner

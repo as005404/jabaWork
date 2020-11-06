@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+//Вычислить значение функции:
 public class Main {
 
     public static void main(String[] args) {

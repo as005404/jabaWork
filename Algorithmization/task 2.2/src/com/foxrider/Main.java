@@ -1,7 +1,7 @@
 package com.foxrider;
 
 import java.util.Scanner;
-
+//Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
 public class Main {
 
     public static void main(String[] args) {
